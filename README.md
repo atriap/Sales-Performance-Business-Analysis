@@ -25,24 +25,24 @@ Click [here](https://github.com/atriap/Sales-Performance-Business-Analysis.ipynb
 ### Quantity sold per category
 ![image](https://user-images.githubusercontent.com/104981673/202838352-166eb148-b105-4649-8af3-b100a987bfd5.png)
 ### Sales per month
-![image](https://user-images.githubusercontent.com/104981673/202838354-3b1fb24d-62d6-42ad-a32d-2e5567e49135.png)
+![image](https://user-images.githubusercontent.com/104981673/202839107-1d408050-044d-42d2-93a1-463a676af2bc.png)
 ### Sales per product category
-![image](https://user-images.githubusercontent.com/104981673/202838357-01e7b2eb-bf2b-4822-ac6b-66f383628631.png)
+![image](https://user-images.githubusercontent.com/104981673/202839087-431f6147-3a44-4545-9643-51a04340bbb6.png)
 ### Units sold each year per product category
 ![image](https://user-images.githubusercontent.com/104981673/202838359-c8aeba9b-a421-4b59-bcfe-a34772e09433.png)
 
 
 
 ## Conclusion
-- The company experienced a decrease in 2021 revenue from 2020
 - Product sales trend in 2021 decreased compared to 2020
 - The product category that customers are most interested in is eBooks
-- The product category that provides the most revenue for the company is Robots, while eBooks is one of the product categories that generates the lowest income even though it sells the most.
+- The product category that provides the highest sales for the company is Robots, while eBooks is one of the product categories that generates the lowest sales even though it sells the most.
+
 
 
 ## Recommendation
 PT Sejahtera Bersama should consider:
-- Increase the price of eBooks so that their revenue increases, or 
+- Increase the price of eBooks so that their sales increases, or 
 - Reduce the price of Robots so that customers are interested in buying Robot products
 - Set feasible sales targets to drive company growth
 
