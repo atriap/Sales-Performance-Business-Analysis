@@ -1,9 +1,12 @@
 # Sales Performance Business Analysis
 
+![Dashboard 1 (3)](https://user-images.githubusercontent.com/104981673/203362132-e6a6e460-aa7d-4a89-a606-dd958a295a03.png)
+
+
 
 A data analysis unguided self project, datasets are obtained from Rakamin Virtual Experience Internship with Bank Muamalat
 
-- **Tools** : Jupyter Notebook, MySQL Workbench 8.0
+- **Tools** : Jupyter Notebook, MySQL Workbench 8.0, [Tableau](https://public.tableau.com/app/profile/atrria/viz/sales_16691243688450/Dashboard1)
 - **Languages** : SQL, Python
 
 *This is a public portfolio version, i removed some credential details used for importing sql or python to jupyter notebook,
