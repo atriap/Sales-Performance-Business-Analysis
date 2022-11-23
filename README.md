@@ -30,7 +30,7 @@ Click [here](https://github.com/atriap/Sales-Performance-Business-Analysis/blob/
 ### Sales per month
 ![image](https://user-images.githubusercontent.com/104981673/202839107-1d408050-044d-42d2-93a1-463a676af2bc.png)
 ### Sales per product category
-![image](https://user-images.githubusercontent.com/104981673/202839087-431f6147-3a44-4545-9643-51a04340bbb6.png)
+![image](https://user-images.githubusercontent.com/104981673/203512552-c0454503-f37d-4969-9be6-289279f85054.png)
 ### Units sold each year per product category
 ![image](https://user-images.githubusercontent.com/104981673/202838359-c8aeba9b-a421-4b59-bcfe-a34772e09433.png)
 
