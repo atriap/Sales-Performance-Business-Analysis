@@ -1,6 +1,6 @@
 # Sales Performance Business Analysis
 
-![Dashboard 1 (3)](https://user-images.githubusercontent.com/104981673/203362132-e6a6e460-aa7d-4a89-a606-dd958a295a03.png)
+![Dashboard 1 (4)](https://user-images.githubusercontent.com/104981673/203516219-4e8dfab4-bfd8-4c0e-97b6-2886c51865d9.png)
 
 
 
@@ -26,13 +26,13 @@ Click [here](https://github.com/atriap/Sales-Performance-Business-Analysis/blob/
 ## Data Visualization
 
 ### Quantity sold per category
-![image](https://user-images.githubusercontent.com/104981673/202838352-166eb148-b105-4649-8af3-b100a987bfd5.png)
+![image](https://user-images.githubusercontent.com/104981673/203515881-51023f33-15f5-4d21-a6e0-0ac37f961d17.png)
 ### Sales per month
-![image](https://user-images.githubusercontent.com/104981673/202839107-1d408050-044d-42d2-93a1-463a676af2bc.png)
+![image](https://user-images.githubusercontent.com/104981673/203515856-3dee04da-184b-4eb7-9d80-46b67198e7af.png)
 ### Sales per product category
-![image](https://user-images.githubusercontent.com/104981673/203512552-c0454503-f37d-4969-9be6-289279f85054.png)
+![image](https://user-images.githubusercontent.com/104981673/203515826-8077587b-9a63-4bc5-8f16-c8bc00c7f817.png)
 ### Units sold each year per product category
-![image](https://user-images.githubusercontent.com/104981673/202838359-c8aeba9b-a421-4b59-bcfe-a34772e09433.png)
+![image](https://user-images.githubusercontent.com/104981673/203515799-2e3ee965-b3f1-4460-baa8-da1e4c4350a8.png)
 
 
 
