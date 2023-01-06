@@ -21,7 +21,7 @@ As a BI analyst at PT Sejahtera Bersama, what can you propose to maintain sales 
 
 ## Data Analysis
 
-Click [here](https://github.com/atriap/Sales-Performance-Business-Analysis/blob/main/Sales%20Performance%20Business%20Analysis.ipynb) for complete SQL and Python queries compiled in Jupyter Notebook
+Click [here](https://github.com/atriap/Sales-Performance-Business-Analysis/blob/main/Sales%20Performance%20Business%20Analysis%20(1).ipynb) for complete SQL and Python queries compiled in Jupyter Notebook
 
 ## Data Visualization
 
