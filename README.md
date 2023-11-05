@@ -5,7 +5,7 @@
 
 A data analysis unguided self project, datasets are obtained from Rakamin Virtual Experience Internship with Bank Muamalat
 
-- **Tools** : Jupyter Notebook, MySQL Workbench 8.0, [Tableau](https://public.tableau.com/app/profile/atrria/viz/sales_16691243688450/Dashboard1)
+- **Tools** : Jupyter Notebook, MySQL Workbench 8.0, [Tableau](https://public.tableau.com/app/profile/atrria/viz/sales_16691243688450/SalesPerformance)
 - **Languages** : SQL, Python
 
 *This is a public portfolio version, i removed some credential details used for importing sql or python to jupyter notebook,
