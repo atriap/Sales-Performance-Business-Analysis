@@ -1,7 +1,6 @@
 # Sales Performance Business Analysis
 
-![Dashboard 1 (4)](https://user-images.githubusercontent.com/104981673/203516219-4e8dfab4-bfd8-4c0e-97b6-2886c51865d9.png)
-
+![image](https://github.com/atriap/Sales-Performance-Business-Analysis/assets/104981673/beeaef16-682a-4f9f-99a8-a748de2e47f0)
 
 
 A data analysis unguided self project, datasets are obtained from Rakamin Virtual Experience Internship with Bank Muamalat
